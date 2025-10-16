@@ -1,4 +1,4 @@
-package com.example.api_estacionamento.controller;
+package com.example.api_estacionamento.dto;
 
 public class CadastroRequest {
 
